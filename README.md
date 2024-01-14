@@ -1,23 +1,17 @@
-### Всем привет! 👋
+### Привет! 👋
 
 
->- ⛓ Мой никнейм - **Suggika**
+>- 🖤 Мой никнейм - **Suggika**
 
->>- 📋 Знаю все про Discord и как его улучшить
+>>- 🔑 Знаю все про Discord и как его улучшить
 
->>>- 💣 Python child
+>>>- 🐍 Python child
 
 ### Мои контакты 📱
 
-- 🎮  [Discord сервер с краш ботами](https://discord.gg/J5Zyf8REhtq)
+- 🌵  [DS сервер](https://discord.gg/J5Zyf8REhtq)
 
-- 🛒  [Телеграм канал](https://t.me/JKtimosha)
-
-- 💖 [Краш боты в тг](https://t.me/JKcrashers)
-
-- 💢 [Софты, сурсы и сливы в тг](https://t.me/JKcrashers_soft)
-
-
+- 🛒  [Телега](https://t.me/JKtimosha)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suggika&show_icons=true&theme=radical)
 
