@@ -1,11 +1,11 @@
 ### Привет! 👋
 
 
->- 🖤 Я - **Suggika**
+>- 🖤 **Я - Suggika**
 
->>- 🔑 **Telegram и Discord боты** - ко мне
+>>- 🔑 **Telegram и Discord боты - Ко мне**
 
->>>- 🐍 Python - **85%**
+>>>- **🐍 Python - 85%**
 
 ### Для связи: 📱
 
