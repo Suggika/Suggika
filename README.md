@@ -1,17 +1,15 @@
 ### Привет! 👋
 
 
->- 🖤 Мой никнейм - **Suggika**
+>- 🖤 Я - **Suggika**
 
->>- 🔑 Знаю **ВСЕ** про Discord
+>>- 🔑 **Telegram и Discord боты** - ко мне
 
->>>- 🐍 **Python** child
+>>>- 🐍 Python - **85%**
 
-### Мои контакты 📱
+### Для связи: 📱
 
-- 🌵  [DS сервер](https://discord.gg/pablozone)
-
-- 🛒  [Телега](https://t.me/suggika)
+- 🛒  [Telegram](https://t.me/suggika)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suggika&show_icons=true&theme=radical)
 
