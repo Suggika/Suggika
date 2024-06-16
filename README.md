@@ -3,8 +3,7 @@
 
 >- 🖤 **Suggika**
 
->>- 🤖 **Telegram и Discord боты - Ко мне**
-
+>>- 🤖 **Telegram и Discord боты
 >>>- **🐍 Python**
 
 ### Для связи: 📱
