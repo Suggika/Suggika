@@ -1,7 +1,7 @@
 ### Привет! 👋
 
 
->- 🖤 **Я - Suggika**
+>- 🖤 **Suggika**
 
 >>- 🤖 **Telegram и Discord боты - Ко мне**
 
