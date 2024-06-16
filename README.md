@@ -1,14 +1,14 @@
-### 👋 Привет! 
+### 🐵 Hi There!
 ---------------------
 
-🖤 **Suggika**
+💡  **Suggika**
 
- 🤖 **Telegram и Discord боты**
+  ⚙️  **Telegram and Discord bots**
  
- **🐍 Python**
+   **📜  I’m currently learning Python**
  
 -----------------------
-### Для связи: 📱
+### For communication: 📱
 
 - 🛒  [Telegram](https://t.me/suggika)
 
