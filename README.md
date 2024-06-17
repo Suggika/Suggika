@@ -15,7 +15,7 @@
 
 <h2 align="left"> Tech Stack</h2>
 
-> General
+> ### General
 
 <table width='100%'>
   <tr>
@@ -70,107 +70,16 @@
 
 </table>
 
-> Frontend
 
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36" height="36" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-      <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-  </tr> 
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" width="36" height="36" alt="Ant-design" />
-      </a>
-      <br>Ant-design
-    </td>
-  </tr> 
-</table>
-
-> Backend
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-  </tr> 
-</table>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suggika&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suggika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact
 
 
-- &#128172; &nbsp;**[Telegram](https://t.me/suggika)**
-- &#128172; &nbsp;**[Discord](https://discord.gg/BMNwFBPeHU)**
-- &#128172; &nbsp;**[Github](https://github.com/Suggika)**
+### **[Telegram](https://t.me/suggika)**
+### **[Discord](https://discord.gg/BMNwFBPeHU)**
+### **[Github](https://github.com/Suggika)**
 
 <br>
 
