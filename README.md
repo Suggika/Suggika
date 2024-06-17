@@ -168,13 +168,15 @@
     </td>
   </tr> 
 </table>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suggika&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suggika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact
 
-- &#128172; &nbsp;**[VK](https://vk.com/lime4512)**
-- &#128172; &nbsp;**[Telegram](https://t.me/lime4512)**
-- &#128172; &nbsp;**[Discord](https://discord.gg/9UEu3xaa)**
-- &#128172; &nbsp;**[Github](https://github.com/lime4512)**
+
+- &#128172; &nbsp;**[Telegram](https://t.me/suggika)**
+- &#128172; &nbsp;**[Discord](https://discord.gg/BMNwFBPeHU)**
+- &#128172; &nbsp;**[Github](https://github.com/Suggika)**
 
 <br>
 
