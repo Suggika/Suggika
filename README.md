@@ -7,13 +7,13 @@
 <br/>
 <div align="center">
 
- 🌱 My portfolio [PORTFOLIO](https://lime4512.github.io/profile/) 
+
  
- 🌱 My project [CRYPTO-PROFILE](https://lime4512.github.io/Crypto-Profile/)
+ ⚙️ **My project [TROUBLEBREAKER](https://lime4512.github.io/Crypto-Profile/)**
  
  </div>
 
-<h2 align="left"> Tech Stack</h2>
+<h2 align="left">Stack</h2>
 
 > ### General
 
@@ -73,13 +73,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suggika&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suggika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 
 
-### **[Telegram](https://t.me/suggika)**
-### **[Discord](https://discord.gg/BMNwFBPeHU)**
-### **[Github](https://github.com/Suggika)**
+### **🛒 [Telegram](https://t.me/suggika)**
+### **💡 [Discord](https://discord.gg/BMNwFBPeHU)**
+
 
 <br>
 
