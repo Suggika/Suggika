@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Suggika!;" />
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=35&pause=550&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HI+THERE!;I'M+-+SUGGIKA)](https://git.io/typing-svg)
 </h1>
 
 <h3 align="center">A passionate frontend developer from Russia</h3>
