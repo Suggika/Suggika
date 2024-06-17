@@ -1,8 +1,8 @@
 <h1 align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=35&pause=550&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HI+THERE!;I'M+-+SUGGIKA)](https://git.io/typing-svg)
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+SUGGIKA;TELEGRAM+AND+DISCORD+BOTS" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">🐵 Young Junior Frontender 🐵 </h3>
 
 <br/>
 <div align="center">
