@@ -13,7 +13,7 @@
  
  </div>
 
-<h2 align="left"> Tech stack</h2>
+<h2 align="left"> Tech Stack</h2>
 
 > General
 
@@ -23,13 +23,13 @@
       <a href="#">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="javascript" />
       </a>
-      <br>javascript
+      <br>Javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="typescript" />
       </a>
-      <br>typescript
+      <br>Typescript
     </td>
         <td align="center" width="110" height="90">
       <a href="#">
@@ -47,33 +47,27 @@
       <a href="#debabin-stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       </a>
-      <br>figma
+      <br>Figma
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>
-      <br>git
+      <br>Git
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="npm" />
       </a>
-      <br>npm
+      <br>Python
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#" >
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github" />
       </a>
-      <br>github
+      <br>Github
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      </a>
-      <br>docker
-    </td>
-  </tr> 
+
 </table>
 
 > Frontend
