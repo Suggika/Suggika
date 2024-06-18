@@ -13,7 +13,7 @@
  
  </div>
 
-<h2 align="left">Stack</h2>
+<h2 align="left">Stack:</h2>
 
 > ### General
 
@@ -74,7 +74,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suggika&show_icons=true&theme=radical)
 
 
-## Contact
+## Contact:
 
 
 ### **🛒 [Telegram](https://t.me/suggika)**
