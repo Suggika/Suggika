@@ -77,8 +77,8 @@
 ## Contact:
 
 
-### **🛒 [Telegram](https://t.me/suggika)**
-### **💡 [Discord](https://discord.gg/BMNwFBPeHU)**
+### **[>] [Telegram](https://t.me/suggika)**
+### **[>} [Discord](https://discord.gg/BMNwFBPeHU)**
 
 
 <br>
