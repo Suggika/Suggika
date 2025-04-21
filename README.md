@@ -68,7 +68,7 @@
 
 ## Contact:
 
-### **[>] [Telegram](https://t.me/suggika)**
+### **[Telegram](https://t.me/suggika)**
 
 <br>
 
