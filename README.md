@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+SUGGIKA;TELEGRAM+AND+SITES" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+SUGGIKA; CREATE TELEGRAM BOTS+AND+SITES" />
 </h1>
 
-<h3 align="center">🐵 Junior Frontender 🐵 </h3>
+<h3 align="center">Want to be Backend dev in future</h3>
 
 <br/>
 <div align="center">
