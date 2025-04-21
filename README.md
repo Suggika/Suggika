@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+SUGGIKA;TELEGRAM+AND+DISCORD+BOTS" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+SUGGIKA;TELEGRAM+AND+SITES" />
 </h1>
 
 <h3 align="center">🐵 Junior Frontender 🐵 </h3>
@@ -9,7 +9,7 @@
 
 
  
- ⚙️ **My project [TROUBLEBREAKER AI](https://troublebreaker.framer.ai/)**
+ ⚙️ **My project [TOTEM](https://t.me/TotemKmBot)**
  
  </div>
 
@@ -24,12 +24,6 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="javascript" />
       </a>
       <br>Javascript
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="typescript" />
-      </a>
-      <br>Typescript
     </td>
         <td align="center" width="110" height="90">
       <a href="#">
