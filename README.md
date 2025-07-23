@@ -2,10 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE;I'M+-+SUGGIKA;MAKE+TELEGRAM+BOTS+AND+SITES"/>
 </h1>
 <h3 align="center">Want to be FrontEnd Dev in future</h3>
-<br/>
+
 <div align="center">
 <h3 align="center">
-  💀 <strong><a href="https://t.me/TotemKmBot">My general project Totem</a></strong>
+   <strong><a href="https://t.me/TotemKmBot">My general project Totem</a></strong>
 </h3>
 
  
