@@ -13,7 +13,7 @@
 
 <h2 align="left">Stack:</h2>
 
-> ### General
+
 
 <table width='100%'>
   <tr>
@@ -64,11 +64,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suggika&show_icons=true&theme=radical)
-
-
-## Contact:
-
-### **[Telegram](https://t.me/suggika)**
-
-<br>
+---
+<h3 align="center">
+   <strong><a href="https://t.me/suggika">Contact</a></strong>
+</h3>
 
